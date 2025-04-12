@@ -1,4 +1,4 @@
 # EC_METER_POWER
-EC_METER_POWER_AND_ADC
+# Simulation 
+![image](https://github.com/user-attachments/assets/ae85d0e1-adc7-45eb-a392-1aaed60155cc)
 
-![image](https://github.com/user-attachments/assets/c9669508-0a8b-47d9-8a73-8c9c8af56b7b)
