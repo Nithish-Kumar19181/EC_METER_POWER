@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [EC_meter_v2.PcbDoc]
+   Generated File[EC_meter_v2-Plated.TXT]
+   Generated File[EC_meter_v2.LDP]
+   Generated File[EC_meter_v2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 9:35:25 PM On 4/18/2025
